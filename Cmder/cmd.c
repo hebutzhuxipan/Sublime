@@ -3,3 +3,4 @@
 	grep -rn -P "关键词_1|关键词_2"
 2> 正则表达式“长字符串”搜索： 关键词_1.*?关键词_2
 	grep -rn -P "关键词_1.*?关键词_2"
+3> eg：adb logcat -c && adb logcat -v time| grep -Pi "KPI|fingerprintd|screen_on|set_light_backlight,\ brightness="
