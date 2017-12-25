@@ -1,0 +1,1 @@
+1> View ->Side Bar ->Show Side Bar //显示右侧导航栏
